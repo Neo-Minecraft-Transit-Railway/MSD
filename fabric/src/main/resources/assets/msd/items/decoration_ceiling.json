@@ -1,0 +1,20 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "mtr:legacy_predicate",
+		"predicate": "msd:hold",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "msd:item/decoration_ceiling"
+		},
+		"entries": [
+			{
+				"threshold": 0,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/decoration_ceiling/decoration_ceiling_hold_1"
+				}
+			}
+		]
+	}
+}

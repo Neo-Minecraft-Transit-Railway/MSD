@@ -1,0 +1,38 @@
+{
+    "msd_rail": {
+        "name": "MSD Rail",
+        "model": "mtrsteamloco:rails/msd_rail.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    },
+    "msd_rail_viaduct": {
+        "name": "MSD Rail Viaduct",
+        "model": "mtrsteamloco:rails/msd_rail_viaduct.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    },
+    "msd_rail_viaduct_both_side": {
+        "name": "MSD RailViaduct(Both Side)",
+        "model": "mtrsteamloco:rails/msd_rail_viaduct_both_side.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    },
+    "msd_rail_viaduct_side": {
+        "name": "MSD Rail Viaduct(Side)",
+        "model": "mtrsteamloco:rails/msd_rail_viaduct_side.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    },
+    "msd_rail_tunnel": {
+        "name": "MSD Rail Tunnel",
+        "model": "mtrsteamloco:rails/msd_rail_tunnel.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    },
+    "msd_rail_tunnel_side": {
+        "name": "MSD Rail Tunnel(Side)",
+        "model": "mtrsteamloco:rails/msd_rail_tunnel_side.obj",
+        "repeatInterval": 1,
+        "flipV": true
+    }
+}

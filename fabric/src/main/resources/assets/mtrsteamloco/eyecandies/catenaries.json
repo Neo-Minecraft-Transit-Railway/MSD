@@ -1,0 +1,77 @@
+{
+  "catenary_long": {
+    "name": "Catenary(Long)",
+    "model": "mtrsteamloco:eyecandies/catenary_long.obj",
+    "flipV": true
+  },
+  "catenary_short": {
+    "name": "Catenary(Short)",
+    "model": "mtrsteamloco:eyecandies/catenary_short.obj",
+    "flipV": true
+  },
+  "catenary_long_counterweight": {
+    "name": "Catenary With Counterweight(Long)",
+    "model": "mtrsteamloco:eyecandies/catenary_long_counterweight.obj",
+    "flipV": true
+  },
+  "catenary_short_counterweight": {
+    "name": "Catenary With Counterweight(Short)",
+    "model": "mtrsteamloco:eyecandies/catenary_short_counterweight.obj",
+    "flipV": true
+  },
+  "catenary_long_counterweight_mirror": {
+    "name": "Catenary With Counterweight(Long & Mirror)",
+    "model": "mtrsteamloco:eyecandies/catenary_long_counterweight_mirror.obj",
+    "flipV": true
+  },
+  "catenary_short_counterweight_mirror": {
+    "name": "Catenary With Counterweight(Short & Mirror)",
+    "model": "mtrsteamloco:eyecandies/catenary_short_counterweight_mirror.obj",
+    "flipV": true
+  },
+  "catenary_long_top": {
+    "name": "Catenary(Long & Top)",
+    "model": "mtrsteamloco:eyecandies/catenary_long_top.obj",
+    "flipV": true
+  },
+  "catenary_short_top": {
+    "name": "Catenary(Short & Top)",
+    "model": "mtrsteamloco:eyecandies/catenary_short_top.obj",
+    "flipV": true
+  },
+  "catenary_both": {
+    "name": "Catenary(Both side)",
+    "model": "mtrsteamloco:eyecandies/catenary_both.obj",
+    "flipV": true
+  },
+  "catenary_both_mirror": {
+    "name": "Catenary(Both side & Mirror)",
+    "model": "mtrsteamloco:eyecandies/catenary_both_mirror.obj",
+    "flipV": true
+  },
+  "catenary_both_top": {
+    "name": "Catenary(Both side & Top)",
+    "model": "mtrsteamloco:eyecandies/catenary_both_top.obj",
+    "flipV": true
+  },
+  "gantry_13": {
+    "name": "Gantry(13)",
+    "model": "mtrsteamloco:eyecandies/gantry_13.obj",
+    "flipV": true
+  },
+  "gantry_17": {
+    "name": "Gantry(17)",
+    "model": "mtrsteamloco:eyecandies/gantry_17.obj",
+    "flipV": true
+  },
+  "catenary_positioning_tool": {
+    "name": "Catenary Positioning Tool",
+    "model": "mtrsteamloco:eyecandies/catenary_positioning_tool.obj",
+    "flipV": true
+  },
+  "catenary_positioning_tool_both": {
+    "name": "Catenary Positioning Tool(Both)",
+    "model": "mtrsteamloco:eyecandies/catenary_positioning_tool_both.obj",
+    "flipV": true
+  }
+}

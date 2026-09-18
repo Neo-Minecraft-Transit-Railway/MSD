@@ -1,0 +1,17 @@
+{
+  "parent": "msd:item/surveillance_cameras/surveillance_cameras_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/surveillance_cameras/surveillance_cameras_hold_1"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.1
+      },
+      "model": "msd:item/surveillance_cameras/surveillance_cameras_hold_2"
+    }
+  ]
+}

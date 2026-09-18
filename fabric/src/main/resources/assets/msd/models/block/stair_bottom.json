@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "msd:block/stair_marble_half",
+		"1": "msd:block/stair_marble",
+		"particle": "msd:block/stair_marble_half"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0", "cullface": "east"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#1", "cullface": "up"}
+			}
+		},
+		{
+			"from": [0, -6.6274, 16],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [0, 16, 16]},
+			"faces": {
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.25]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.25]
+		},
+		"gui": {
+			"rotation": [22.5, -45, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

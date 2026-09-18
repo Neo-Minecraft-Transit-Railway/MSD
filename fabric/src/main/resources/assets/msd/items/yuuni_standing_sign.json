@@ -1,0 +1,27 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "mtr:legacy_predicate",
+		"predicate": "msd:hold",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "msd:item/yuuni_standing_sign"
+		},
+		"entries": [
+			{
+				"threshold": 0,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/yuuni_standing_sign/yuuni_standing_sign_hold_1"
+				}
+			},
+			{
+				"threshold": 0.1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/yuuni_standing_sign/yuuni_standing_sign_hold_2"
+				}
+			}
+		]
+	}
+}

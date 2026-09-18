@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "top.mcmtr.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"refmap": "msd.refmap.json",
+	"mixins": [],
+	"client": ["RenderRailsMixin"],
+	"server": [],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "mtr:legacy_predicate",
+		"predicate": "msd:hold",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "msd:item/railing_stair_glass_mirror"
+		},
+		"entries": [
+			{
+				"threshold": 0,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_1"
+				}
+			},
+			{
+				"threshold": 0.1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_2"
+				}
+			},
+			{
+				"threshold": 0.2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_3"
+				}
+			},
+			{
+				"threshold": 0.3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_4"
+				}
+			},
+			{
+				"threshold": 0.4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_5"
+				}
+			},
+			{
+				"threshold": 0.5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/railing_stair_glass_mirror/railing_stair_glass_mirror_hold_6"
+				}
+			}
+		]
+	}
+}

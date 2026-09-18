@@ -1,0 +1,27 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "mtr:legacy_predicate",
+		"predicate": "msd:hold",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "msd:item/decoration_stair"
+		},
+		"entries": [
+			{
+				"threshold": 0,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/decoration_stair/decoration_stair_hold_1"
+				}
+			},
+			{
+				"threshold": 0.1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "msd:item/decoration_stair/decoration_stair_hold_2"
+				}
+			}
+		]
+	}
+}

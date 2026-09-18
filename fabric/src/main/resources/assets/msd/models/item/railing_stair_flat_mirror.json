@@ -1,0 +1,41 @@
+{
+  "parent": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_1"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.1
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_2"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.2
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_3"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.3
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_4"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.4
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_5"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.5
+      },
+      "model": "msd:item/railing_stair_mirror/railing_stair_mirror_hold_6"
+    }
+  ]
+}

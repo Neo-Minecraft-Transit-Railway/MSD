@@ -1,0 +1,10 @@
+# Made in Blockbench 4.10.3
+newmtl m_da6ca69d-131c-6c95-a760-0f63988ad64f
+map_Kd 512x.png
+newmtl m_a0f4ab46-3d3a-f692-dbbf-0c75f13b7eb4
+map_Kd black.png
+newmtl m_94a4b581-9e25-6e48-9ca0-1b7fb2d59458
+map_Kd railing_stair_iron.png
+newmtl m_1a3ba4a6-24e4-d9a6-9b3f-66daaca922d8
+map_Kd gray.png
+newmtl none

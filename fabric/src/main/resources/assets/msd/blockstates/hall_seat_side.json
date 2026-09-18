@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "facing=north,type=0": {
+      "model": "msd:block/hall_seat_side"
+    },
+    "facing=east,type=0": {
+      "model": "msd:block/hall_seat_side",
+      "y": 90
+    },
+    "facing=south,type=0": {
+      "model": "msd:block/hall_seat_side",
+      "y": 180
+    },
+    "facing=west,type=0": {
+      "model": "msd:block/hall_seat_side",
+      "y": 270
+    },
+    "facing=north,type=1": {
+      "model": "msd:block/hall_seat_side_mirror"
+    },
+    "facing=east,type=1": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 90
+    },
+    "facing=south,type=1": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 180
+    },
+    "facing=west,type=1": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 270
+    },
+    "facing=north,type=2": {
+      "model": "msd:block/hall_seat_middle"
+    },
+    "facing=east,type=2": {
+      "model": "msd:block/hall_seat_middle",
+      "y": 90
+    },
+    "facing=south,type=2": {
+      "model": "msd:block/hall_seat_middle",
+      "y": 180
+    },
+    "facing=west,type=2": {
+      "model": "msd:block/hall_seat_middle",
+      "y": 270
+    },
+    "facing=north,type=3": {
+      "model": "msd:block/hall_seat_side_mirror"
+    },
+    "facing=east,type=3": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 90
+    },
+    "facing=south,type=3": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 180
+    },
+    "facing=west,type=3": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 270
+    },
+    "facing=north,type=4": {
+      "model": "msd:block/hall_seat_side_mirror"
+    },
+    "facing=east,type=4": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 90
+    },
+    "facing=south,type=4": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 180
+    },
+    "facing=west,type=4": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 270
+    },
+    "facing=north,type=5": {
+      "model": "msd:block/hall_seat_side_mirror"
+    },
+    "facing=east,type=5": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 90
+    },
+    "facing=south,type=5": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 180
+    },
+    "facing=west,type=5": {
+      "model": "msd:block/hall_seat_side_mirror",
+      "y": 270
+    }
+  }
+}

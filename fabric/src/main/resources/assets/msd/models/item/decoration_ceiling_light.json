@@ -1,0 +1,11 @@
+{
+  "parent": "msd:item/decoration_ceiling_light/decoration_ceiling_light_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/decoration_ceiling_light/decoration_ceiling_light_hold_1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "msd:block/old/short_catenary_rack",
+                                          "y":  0
+                                      },
+                     "facing=east":  {
+                                         "model":  "msd:block/old/short_catenary_rack",
+                                         "y":  90
+                                     },
+                     "facing=south":  {
+                                          "model":  "msd:block/old/short_catenary_rack",
+                                          "y":  180
+                                      },
+                     "facing=west":  {
+                                         "model":  "msd:block/old/short_catenary_rack",
+                                         "y":  270
+                                     }
+                 }
+}

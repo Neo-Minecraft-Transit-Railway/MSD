@@ -1,0 +1,17 @@
+{
+  "parent": "msd:item/decoration_stair/decoration_stair_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/decoration_stair/decoration_stair_hold_1"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.1
+      },
+      "model": "msd:item/decoration_stair/decoration_stair_hold_2"
+    }
+  ]
+}

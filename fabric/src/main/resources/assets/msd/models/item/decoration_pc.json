@@ -1,0 +1,11 @@
+{
+  "parent": "msd:item/decoration_pc/decoration_pc_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/decoration_pc/decoration_pc_hold_1"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "msd:item/yuuni_standing_sign_1/yuuni_standing_sign_1_hold_1",
+  "overrides": [
+    {
+      "predicate": {
+        "msd:hold": 0
+      },
+      "model": "msd:item/yuuni_standing_sign_1/yuuni_standing_sign_1_hold_1"
+    },
+    {
+      "predicate": {
+        "msd:hold": 0.1
+      },
+      "model": "msd:item/yuuni_standing_sign_1/yuuni_standing_sign_1_hold_2"
+    }
+  ]
+}
